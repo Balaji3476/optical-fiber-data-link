@@ -1,0 +1,19 @@
+# Arduino / arduino-cli build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+# PlatformIO (if you migrate later)
+.pio/
+.pioenvs/
+.piolibdeps/
+# Secrets (Wi-Fi credentials etc.)
+secrets.h
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
